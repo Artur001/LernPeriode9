@@ -12,3 +12,15 @@ Heute würde ich gerne das Modul 295 abschliessen indem ich MySQL mit meinem Pro
 - [ ] Modul 114 Handlungsziel 2 abschliessen
 
 Ich werde zusätzlich noch für mein Nebenprojekt Youtube Videos anschauen zum Thema LUAU und ChatGPT verwenden, falls ich noch weitere Probleme habe.
+
+Es verlief alles nach Plan und ich bin zufrieden mit meiner Arbeit.
+
+
+## 28.02.2025
+
+Heute würde ich gerne für das Modul 114 weitere Aufträge abschliessen. Ich möchte für das Handlungsziel 3 einen Auftrag lösen (LA_114_1726_Verschluesselung_symmetrisch Datei) und ich möchte auch noch für das neue Modul 259 in der LB die Aufgabe 1 lösen. Ich würde viel profitieren wenn ich diese zwei Sachen abschliesse.
+
+- [ ] LA_114_1726_Verschluesselung_symmetrisch Datei
+- [ ] Modul 259 Aufgabe 1 abschliessen
+
+Ich werde zusätzlich Youtube Videos anschauen zum Thema Machine Learning und ChatGPT verwenden, falls ich noch weitere Probleme habe.
