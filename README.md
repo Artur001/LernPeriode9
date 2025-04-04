@@ -44,8 +44,31 @@ Es war alles gut und es lief alles nach Plan.
 Heute würde ich weiter an meinem Seitenprojekt arbeiten, da ich gemerkt habe, dass ich zu viel vorgearbeitet habe. Ich würde gerne Blender kennenlernen und einen einfachen Gegenstand machen. Ich würde gerne eine Vase ausprobieren. Falls ich das schaffe, würde ich probieren, dass ich es zerstörbar mache, also in mehreren Teilen aufteilen, aber intakt lassen, sodass man etwas mit diesem System anfangen kann.
 
 - [x] Blender -> Vase
-- [ ] Vase -> zerstörbar machen und importieren, falls funktioniert.
+- [x] Vase -> zerstörbar machen und importieren, falls funktioniert.
 
 Ich werde zusätzlich Youtube Videos anschauen und ChatGPT verwenden, falls ich noch weitere Probleme habe.
 
 Ich konnte die Vase machen, was sehr lange brauchte. Als ich probierte, es zerstörbar zu machen, funktionierte es nie. Ich habe ChatGPT gefragt, aber er gab mir nur Blödsinn. Vielleicht funkioniert es besser nächstes Mal. 
+
+## 21.03.2025
+
+Heute würde ich weiter an der LB 259 arbeiten. Die Aufgabe 2 ist als Abgabe gesehen und da ich schon viel Erfahrung habe mit Machine Learning, würde es kein Problem sein
+
+- [x] Teilaufgabe 2 lösen
+
+Ich werde zusätzlich Youtube Videos anschauen und ChatGPT verwenden, falls ich noch weitere Probleme habe.
+
+## 28.03.2025
+
+
+- [x] 
+
+
+
+## 04.04.2025
+
+
+- [x] 
+
+Ich werde zusätzlich Youtube Videos anschauen und ChatGPT verwenden, falls ich noch weitere Probleme habe.
+
